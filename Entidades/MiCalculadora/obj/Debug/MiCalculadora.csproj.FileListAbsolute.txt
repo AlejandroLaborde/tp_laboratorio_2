@@ -1,0 +1,10 @@
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+G:\Laboratorio y programacion II (Primera vez)\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
