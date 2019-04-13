@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,16 +23,21 @@ namespace MiCalculadora
 
         }
 
-        private static void Limpiar()
+        private  void Limpiar()
         {
-
+            this.txtNumero1.Clear();
+            this.txtNumero2.Clear();
+            this.lblResultado.Text = "";
+            this.cmbOperador.Text = "";
 
         }
 
-        private static double Operar(String numero1, String numero2, String operador)
+        private  double Operar(String numero1, String numero2, String operador)
         {
-
-            return 0;
+            Entidades.Numero a = new Entidades.Numero(numero1);
+            Entidades.Numero b = new Entidades.Numero(numero2);
+            
+            return Calculadora.Operar(a, b, this.cmbOperador.Text) ;
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -41,17 +47,12 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            Entidades.Numero numero1 = new Entidades.Numero(this.txtNumero1.Text);
-            Entidades.Numero numero2 = new Entidades.Numero(this.txtNumero2.Text);
-            lblResultado.Text= Entidades.Calculadora.Operar(numero1, numero2, this.cmbOperador.Text).ToString();
+            lblResultado.Text = Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text).ToString();
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            this.txtNumero1.Clear();
-            this.txtNumero2.Clear();
-            this.lblResultado.Text = "";
-            this.cmbOperador.Text="";
+            Limpiar();
         }
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
