@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.dll
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.pdb
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.dll
+F:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.dll
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.dll
+G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.pdb
