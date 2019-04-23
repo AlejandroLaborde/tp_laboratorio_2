@@ -40,13 +40,14 @@ namespace Entidades_2018
         {
             this.tipo = tipo;
         }
+
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("LECHE");
             sb.AppendLine((string)this);
             sb.AppendFormat("TIPO: {0}\r\n", this.tipo);
-            sb.AppendLine("--------------------------------\n");
+            sb.AppendLine("--------------------------------");
             return sb.ToString();
         }
 

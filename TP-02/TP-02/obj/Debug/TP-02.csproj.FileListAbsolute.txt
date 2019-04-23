@@ -38,3 +38,13 @@ G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\TP-02
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\TP-02\bin\Debug\Entidades.dll
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\TP-02\bin\Debug\Entidades.pdb
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\al34224\Desktop\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\al34224\Desktop\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\al34224\Desktop\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\al34224\Desktop\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\al34224\Desktop\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\al34224\Desktop\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\al34224\Desktop\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\al34224\Desktop\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\al34224\Desktop\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\al34224\Desktop\TP-02\TP-02\obj\Debug\TP-02.pdb

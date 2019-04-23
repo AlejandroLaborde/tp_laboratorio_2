@@ -59,19 +59,19 @@ namespace Entidades_2018
                 switch (tipo)
                 {
                     case ETipo.Snacks:
-                        if (v.GetType().Equals(typeof(Snacks)))
+                        if (v.GetType().Equals(typeof(Snacks)))//Compara los tipos para saber si muestra o no
                         {
                            sb.AppendLine(v.Mostrar());
                         }
                         break;
                     case ETipo.Dulce:
-                        if (v.GetType().Equals(typeof(Dulce)))
+                        if (v.GetType().Equals(typeof(Dulce)))//Compara los tipos para saber si muestra o no
                         {
                             sb.AppendLine(v.Mostrar());
                         }
                         break;
                     case ETipo.Leche:
-                        if (v.GetType().Equals(typeof(Leche)))
+                        if (v.GetType().Equals(typeof(Leche)))//Compara los tipos para saber si muestra o no
                         {
                             sb.AppendLine(v.Mostrar());
                         }

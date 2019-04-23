@@ -33,7 +33,7 @@ namespace Entidades_2018
 
         #region Metodos
         /// <summary>
-        /// Convierte todos los atributos con sus resultados en string
+        /// retorna todos los atributos con sus resultados en string
         /// </summary>
         /// <returns></returns>
         public override string Mostrar()
@@ -41,7 +41,7 @@ namespace Entidades_2018
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("DULCE");
             sb.AppendLine((string)this);
-            sb.AppendLine("--------------------------------\n");
+            sb.AppendLine("--------------------------------");
             return sb.ToString();
 
         }
