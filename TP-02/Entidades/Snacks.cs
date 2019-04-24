@@ -16,7 +16,6 @@ namespace Entidades_2018
         /// <param name="marca"></param>
         /// <param name="codigoDeBarras"></param>
         /// <param name="color"></param>
-        /// 
         public Snacks( EMarca marca, string codigoDeBarras, ConsoleColor color) : base( codigoDeBarras , marca, color )
         {
             //Snack no contiene atributos propios, solo los heredados
@@ -46,7 +45,7 @@ namespace Entidades_2018
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("SNACK");
-            sb.AppendLine((string)this);
+            sb.AppendLine(base.Mostrar());
             sb.AppendLine("--------------------------------\n");
             return sb.ToString();
 

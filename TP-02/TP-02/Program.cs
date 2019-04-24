@@ -58,7 +58,7 @@ namespace TP_02_2018
 
             // Muestro solo Dulces
             Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
-            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR dulce----------->");
+            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 

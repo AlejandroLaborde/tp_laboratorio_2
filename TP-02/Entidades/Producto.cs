@@ -20,7 +20,7 @@ namespace Entidades_2018
 
         protected string codigoDeBarras;
         protected ConsoleColor colorPrimarioEmpaque;
-        protected EMarca marca;
+        public EMarca marca;
 
         #region propiedad
         /// <summary>
@@ -49,10 +49,14 @@ namespace Entidades_2018
         /// Publica todos los datos del Producto.
         /// </summary>
         /// <returns></returns>
-        public abstract string Mostrar();
+        public virtual string Mostrar() {
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append( (string)this );
+
+            return sb.ToString();
+        }        
        
-
-
 
         public static explicit operator string(Producto p)
         {
@@ -60,8 +64,8 @@ namespace Entidades_2018
             sb.AppendFormat("MARCA : {0}\r\n", p.marca);
             sb.AppendFormat("COLOR EMPAQUE : {0}\r\n", p.colorPrimarioEmpaque);
             sb.AppendFormat("CODIGO DE BARRAS: {0}\r\n", p.codigoDeBarras);
-            sb.AppendLine("--------------------------------\n");
-            sb.AppendFormat("CANTIDAD DE CALORIAS: {0}\r", p.CantidadCalorias);
+            sb.AppendLine("--------------------------------");
+            sb.AppendFormat("CANTIDAD DE CALORIAS: {0}", p.CantidadCalorias);
             return sb.ToString();
         }
 

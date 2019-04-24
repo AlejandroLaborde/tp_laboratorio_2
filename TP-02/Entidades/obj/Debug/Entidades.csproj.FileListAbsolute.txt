@@ -23,9 +23,9 @@ G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entid
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.pdb
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.dll
 G:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.pdb
-C:\Users\al34224\Desktop\TP-02\Entidades\bin\Debug\Entidades.dll
-C:\Users\al34224\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
-C:\Users\al34224\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\al34224\Desktop\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\al34224\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
-C:\Users\al34224\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.dll
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\bin\Debug\Entidades.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.dll
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°2\TP-02\Entidades\obj\Debug\Entidades.pdb
