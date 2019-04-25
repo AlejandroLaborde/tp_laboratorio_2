@@ -20,7 +20,7 @@ namespace Entidades_2018
 
         protected string codigoDeBarras;
         protected ConsoleColor colorPrimarioEmpaque;
-        public EMarca marca;
+        protected EMarca marca;
 
         #region propiedad
         /// <summary>
