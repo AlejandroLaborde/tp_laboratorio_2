@@ -9,7 +9,7 @@ namespace Entidades_2018
     public class Dulce : Producto
     {
         #region Propiedad
-        public override short CantidadCalorias
+        protected override short CantidadCalorias
         {
             get
             {

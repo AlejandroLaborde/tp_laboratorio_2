@@ -18,15 +18,15 @@ namespace Entidades_2018
             Serenisima, Campagnola, Arcor, Ilolay, Sancor, Pepsico
         }
 
-        protected string codigoDeBarras;
-        protected ConsoleColor colorPrimarioEmpaque;
-        protected EMarca marca;
+        private string codigoDeBarras;
+        private ConsoleColor colorPrimarioEmpaque;
+        private EMarca marca;
 
         #region propiedad
         /// <summary>
         /// ReadOnly: Retornará la cantidad de calorias del producto
         /// </summary>
-        public abstract short CantidadCalorias
+        protected abstract short CantidadCalorias
         {
             get;
         }

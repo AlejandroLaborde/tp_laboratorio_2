@@ -17,7 +17,7 @@ namespace Entidades_2018
         /// <summary>
         /// Las leches tienen 20 calorías
         /// </summary>
-        public override short CantidadCalorias
+        protected override short CantidadCalorias
         {
             get
             {
