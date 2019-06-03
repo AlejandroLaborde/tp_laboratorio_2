@@ -1,0 +1,42 @@
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe.config
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.pdb
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.exe
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.pdb
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe.config
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.pdb
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Archivos.dll
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.dll
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Archivos.pdb
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csprojAssemblyReference.cache
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CoreCompileInputs.cache
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CopyComplete
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.exe
+C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.pdb
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.dll
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Instanciables.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe.config
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.exe
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Laborde.Parodi.2C.TP3.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Abstractas.dll
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Instanciables.dll
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.dll
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Abstractas.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Clases Instanciables.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Excepciones.pdb
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csprojAssemblyReference.cache
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CoreCompileInputs.cache
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.csproj.CopyComplete
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.exe
+E:\Laboratorio y programacion II (Primera vez)\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\obj\Debug\Laborde.Parodi.2C.TP3.pdb
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Archivos.dll
+C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Laborde.Parodi.2C.TP3\bin\Debug\Archivos.pdb

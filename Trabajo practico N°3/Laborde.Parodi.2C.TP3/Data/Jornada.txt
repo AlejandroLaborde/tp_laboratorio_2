@@ -1,0 +1,79 @@
+
+
+*************** UNIVERSIDAD****************
+
+ALUMNOS: 
+	Juan Lopez DNI: 12234456 Nacionalidad: Argentino Legajo: 1
+	Estado de cuenta: Becado
+	TOMA CLASE DE: Programacion
+
+	Miguel Hernandez DNI: 92264456 Nacionalidad: Extranjero Legajo: 4
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Legislacion
+
+	Carlos Gonzalez DNI: 12236456 Nacionalidad: Argentino Legajo: 5
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Programacion
+
+	Juan Perez DNI: 12234656 Nacionalidad: Argentino Legajo: 6
+	Estado de cuenta: Deudor
+	TOMA CLASE DE: Laboratorio
+
+	Joaquin Suarez DNI: 91122456 Nacionalidad: Extranjero Legajo: 7
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Laboratorio
+
+	Rodrigo Smith DNI: 22236456 Nacionalidad: Argentino Legajo: 8
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Legislacion
+
+PROFESORES: 
+	Juan Lopez DNI: 12234456 Nacionalidad: Argentino Legajo: 1
+	CLASES DEL DIA:
+	Legislacion
+	Programacion
+
+	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
+	CLASES DEL DIA:
+	Programacion
+	Legislacion
+
+JORNADAS: 
+
+------------------------------------------
+
+CLASE DE Programacion: 
+PROFESOR:
+	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
+	CLASES DEL DIA:
+	Programacion
+	Legislacion
+
+ALUMNOS:
+	Juan Lopez DNI: 12234456 Nacionalidad: Argentino Legajo: 1
+	Estado de cuenta: Becado
+	TOMA CLASE DE: Programacion
+
+	Carlos Gonzalez DNI: 12236456 Nacionalidad: Argentino Legajo: 5
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Programacion
+
+
+------------------------------------------
+
+CLASE DE Legislacion: 
+PROFESOR:
+	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
+	CLASES DEL DIA:
+	Programacion
+	Legislacion
+
+ALUMNOS:
+	Miguel Hernandez DNI: 92264456 Nacionalidad: Extranjero Legajo: 4
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Legislacion
+
+	Rodrigo Smith DNI: 22236456 Nacionalidad: Argentino Legajo: 8
+	Estado de cuenta: AlDia
+	TOMA CLASE DE: Legislacion
+
