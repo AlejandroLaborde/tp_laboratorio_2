@@ -16,12 +16,11 @@ namespace Clases_Instanciables
         {
             clasesDelDia = new Queue<Universidad.EClases>();
             RamdomClases();
-        }// PREGUNTAR ESTOOOOO
+        }
 
-        public Profesor()
+        public Profesor():this(0,"","","",ENacionalidad.Argentino)
         {
-            clasesDelDia = new Queue<Universidad.EClases>();
-            RamdomClases();
+            
         }
         static Profesor()
         {

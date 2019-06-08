@@ -13,3 +13,12 @@ C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\ob
 C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Excepciones.dll
 C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\Alejandro\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

@@ -10,3 +10,9 @@ C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones
 C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\al34224\Desktop\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\coty\Desktop\tp_laboratorio_2\Trabajo practico N°3\Laborde.Parodi.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache

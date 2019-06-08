@@ -31,33 +31,14 @@ PROFESORES:
 	Juan Lopez DNI: 12234456 Nacionalidad: Argentino Legajo: 1
 	CLASES DEL DIA:
 	Legislacion
-	Programacion
+	Laboratorio
 
 	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
 	CLASES DEL DIA:
-	Programacion
+	Legislacion
 	Legislacion
 
 JORNADAS: 
-
-------------------------------------------
-
-CLASE DE Programacion: 
-PROFESOR:
-	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
-	CLASES DEL DIA:
-	Programacion
-	Legislacion
-
-ALUMNOS:
-	Juan Lopez DNI: 12234456 Nacionalidad: Argentino Legajo: 1
-	Estado de cuenta: Becado
-	TOMA CLASE DE: Programacion
-
-	Carlos Gonzalez DNI: 12236456 Nacionalidad: Argentino Legajo: 5
-	Estado de cuenta: AlDia
-	TOMA CLASE DE: Programacion
-
 
 ------------------------------------------
 
@@ -65,7 +46,7 @@ CLASE DE Legislacion:
 PROFESOR:
 	Roberto Juarez DNI: 32234456 Nacionalidad: Argentino Legajo: 2
 	CLASES DEL DIA:
-	Programacion
+	Legislacion
 	Legislacion
 
 ALUMNOS:
