@@ -1,0 +1,65 @@
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Form.resources
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Form.resources
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.FrmPpal.resources
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.FrmPpal.resources
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.FrmPpal.resources
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb

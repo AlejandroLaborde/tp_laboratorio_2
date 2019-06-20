@@ -1,0 +1,30 @@
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+G:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+X:\Laboratorio y programacion II (Primera vez)\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+\\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
