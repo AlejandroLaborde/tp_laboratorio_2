@@ -72,7 +72,7 @@ namespace Entidades
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             Paquete p = (Paquete)elemento;
-            return string.Format("{0} para {1}",p.TrackingID, p.DireccionEntrega);
+            return string.Format("{0} para {1} ({2})\n",p.TrackingID, p.DireccionEntrega,p.Estado);
         }
 
         public void MockCicloDeVida()

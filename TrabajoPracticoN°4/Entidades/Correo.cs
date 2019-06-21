@@ -30,13 +30,15 @@ namespace Entidades
             this.paquetes = new List<Paquete>();
         }
 
-        string IMostrar<List<Paquete>>.MostrarDatos(IMostrar<List<Paquete>> elementos)
+      
+        string IMostrar<List<Paquete>>.MostrarDatos(IMostrar<List<Paquete>> elemento)
         {
             StringBuilder sb = new StringBuilder();
-            foreach (Paquete p in (List<Paquete>)elementos)
+            foreach (Paquete a in ((Correo)elemento).Paquetes)
             {
-                sb.Append(string.Format("{0} para {1} ({2})\n", p.TrackingID, p.DireccionEntrega, p.Estado.ToString()));
+                sb.Append(string.Format("{0} para {1} ({2})\n", a.TrackingID, a.DireccionEntrega, a.Estado.ToString()));
             }
+            sb.ToString().Guardar("salida.txt");
             return sb.ToString();
         }
 

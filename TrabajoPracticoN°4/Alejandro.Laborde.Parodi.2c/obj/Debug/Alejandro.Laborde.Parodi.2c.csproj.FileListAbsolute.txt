@@ -63,3 +63,16 @@ D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.P
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe.config
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.exe
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Alejandro.Laborde.Parodi.2c.pdb
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.dll
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\bin\Debug\Entidades.pdb
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csprojAssemblyReference.cache
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.FrmPpal.resources
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi._2c.Properties.Resources.resources
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.GenerateResource.cache
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CoreCompileInputs.cache
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.csproj.CopyComplete
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.exe
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Alejandro.Laborde.Parodi.2c\obj\Debug\Alejandro.Laborde.Parodi.2c.pdb

@@ -48,13 +48,13 @@ namespace Alejandro.Laborde.Parodi._2c
                 switch (p.Estado)
                 {
                     case EEstado.Entregado:
-                        lstEstadoEntregado.Items.Add(p.ToString());
+                        lstEstadoEntregado.Items.Add(p);
                         break;
                     case EEstado.EnViaje:
-                        lstEstadoEnViaje.Items.Add(p.ToString());
+                        lstEstadoEnViaje.Items.Add(p);
                         break;
                     case EEstado.Ingresado:
-                        lstEstadoIngresado.Items.Add(p.ToString());
+                        lstEstadoIngresado.Items.Add(p);
                         break;
                 }
 
@@ -88,25 +88,12 @@ namespace Alejandro.Laborde.Parodi._2c
 
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
-            if(elemento != null)
+            if (elemento != null)
             {
-                if (elemento.GetType().Equals(typeof(Paquete)))
-                {
-                    MessageBox.Show("es de tipo paquete");
-                    this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
-                }
-                if (elemento.GetType().Equals(typeof(List<Paquete>)))
-                {
-                    MessageBox.Show("es de tipo list paquete");
-                    this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
-                }
-                else
-                {
-                    MessageBox.Show("es de otrotipo :" + elemento.GetType().ToString());
-                }
+                this.rtbMostrar.Text=elemento.MostrarDatos(elemento);
             }
-            string guardar = "hola mundo";
-            guardar.Guardar("Salida.txt");
+            
+            
         }
 
         private void btnMostrarTodos_Click(object sender, EventArgs e)

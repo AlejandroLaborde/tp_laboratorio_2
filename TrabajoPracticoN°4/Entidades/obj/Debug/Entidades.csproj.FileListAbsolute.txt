@@ -28,3 +28,9 @@ D:\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
 \\10.0.11.80\Virtual al34224\Trabajo Practico N°4\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.dll
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.dll
+C:\Users\alaborde\Desktop\tp_laboratorio_2\TrabajoPracticoN°4\Entidades\obj\Debug\Entidades.pdb
