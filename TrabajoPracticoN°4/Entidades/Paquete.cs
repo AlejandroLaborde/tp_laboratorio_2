@@ -72,7 +72,7 @@ namespace Entidades
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             Paquete p = (Paquete)elemento;
-            return string.Format("{0} para {1} ({2})\n",p.TrackingID, p.DireccionEntrega,p.Estado);
+            return string.Format("{0} para {1}\n",p.TrackingID, p.DireccionEntrega);
         }
 
         public void MockCicloDeVida()
@@ -83,7 +83,7 @@ namespace Entidades
             Thread.Sleep(4000);
             this.Estado = EEstado.Entregado;
             this.InformaEstado.Invoke(this, EventArgs.Empty);
-            //PaqueteDAO.Insertar(this);
+            PaqueteDAO.Insertar(this);
 
         }
 

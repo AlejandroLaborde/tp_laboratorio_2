@@ -38,7 +38,7 @@ namespace Entidades
             {
                 sb.Append(string.Format("{0} para {1} ({2})\n", a.TrackingID, a.DireccionEntrega, a.Estado.ToString()));
             }
-            sb.ToString().Guardar("salida.txt");
+            
             return sb.ToString();
         }
 

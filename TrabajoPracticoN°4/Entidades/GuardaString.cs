@@ -31,7 +31,6 @@ namespace Entidades
                     guardar.Close();
                 }
             }
-
             return retorno;
         }
 

@@ -90,10 +90,11 @@ namespace Alejandro.Laborde.Parodi._2c
         {
             if (elemento != null)
             {
-                this.rtbMostrar.Text=elemento.MostrarDatos(elemento);
+                string guardar= elemento.MostrarDatos(elemento);
+                this.rtbMostrar.Text = guardar;
+                guardar.Guardar("salida.txt");
             }
-            
-            
+                   
         }
 
         private void btnMostrarTodos_Click(object sender, EventArgs e)
@@ -105,8 +106,6 @@ namespace Alejandro.Laborde.Parodi._2c
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
-
-
 
     }
 }

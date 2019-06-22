@@ -37,6 +37,7 @@ namespace Entidades
             //cambiar el Source
             try
             {
+               // string connectionStr = "Data Source=.\\SQLEXPRESS;Initial Catalog =correo-sp-2017; Integrated Security = True";
                 string connectionStr = "Data Source=ALEJANDRO-PC\\SQLEXPRESS;Initial Catalog =correo-sp-2017; Integrated Security = True";
                 conexion = new SqlConnection(connectionStr);
                 comando = new SqlCommand();
